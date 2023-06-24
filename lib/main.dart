@@ -3,10 +3,10 @@ import 'package:diceroll/gradien_hello.dart';
 
 void main() {
   runApp(
-    MaterialApp(
+    const MaterialApp(
       home: Scaffold(
         body: GradientHello(
-          const [
+          [
             Colors.red,
             Colors.green,
           ],
