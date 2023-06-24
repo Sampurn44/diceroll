@@ -27,7 +27,7 @@ class _DickrollState extends State<Dickroll> {
       children: [
         Image.asset(
           'assets/dice-$hehe.png',
-          width: 200,
+          width: 150,
         ),
         const SizedBox(height: 20),
         TextButton(

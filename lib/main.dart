@@ -7,8 +7,8 @@ void main() {
       home: Scaffold(
         body: GradientHello(
           [
-            Colors.red,
-            Colors.green,
+            Color.fromARGB(255, 33, 5, 109),
+            Color.fromARGB(255, 68, 21, 149),
           ],
         ),
       ),
